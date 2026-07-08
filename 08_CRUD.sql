@@ -188,3 +188,9 @@ update Corsi
 
 	DELETE FROM Corsi
 		WHERE CorsoId=56;
+
+
+
+
+-- Store procedure
+
